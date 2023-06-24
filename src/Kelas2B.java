@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public class Kelas2B {
+public class Kelas2B {
+    public static void main(String[] args) {
+        for (int i = 1; i <= 100; i++) {
+            System.out.println();
+        }
+    }
 }
